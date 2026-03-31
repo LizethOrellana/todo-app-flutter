@@ -65,12 +65,19 @@ Se implementó una estructura basada en separación de responsabilidades:
 ##  Estructura
 
 lib/
+
 ├── data/
+
 ├── domain/
+
 ├── presentation/
+
 ├── blocs/
+
 ├── pages/
+
 ├── widgets/
+
 
 
 ---
@@ -80,3 +87,4 @@ lib/
 ```bash
 flutter pub get
 flutter run
+Backend: 'https://github.com/LizethOrellana/TodoApp.Api'
